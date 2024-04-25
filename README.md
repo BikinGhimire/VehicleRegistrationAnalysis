@@ -4,6 +4,8 @@
 
 <b>Dataset:</b> https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=2010002401
 
+<b>Prediction Model:</b> ARIMA
+
 <b>Analyses:</b>
 <ul>
   <li>Analyzing overall new vehicle registration by quarter each year</li>
